@@ -1,0 +1,1 @@
+(()=>{"use strict";"undefined"!=typeof window&&window.document?console.log("Hey browser!"):console.log("Hey Node.js!")})();
